@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Word wallpaper 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Archers
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhay MV - Sahrdaya Collage of Engineering & Technology
+- Member 2: Aaron Thomas - Sahrdaya Collage of Engineering & Technology
+- Member 3: Abellash C Mathew - Sahrdaya Collage of Engineering & Technology
 
 ### Project Description
 [2-3 lines about what your project does]
