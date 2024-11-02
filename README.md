@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: HackyPixels
+### Team Name: Archers
 
 
 ### Team Members
