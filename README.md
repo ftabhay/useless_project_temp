@@ -13,7 +13,7 @@
 - Member 3: Abellash C Mathew - Sahrdaya Collage of Engineering & Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+This script creates an interactive desktop background that updates in real time based on the user's keyboard input. As the user types, the text is displayed in red over a black background, allowing for a dynamic visual representation of their input. The background refreshes automatically, and there’s a reset feature that clears the text after a certain number of key presses, providing a unique and personalized desktop experience.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -24,15 +24,9 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- python
+- pynput, pillow
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
